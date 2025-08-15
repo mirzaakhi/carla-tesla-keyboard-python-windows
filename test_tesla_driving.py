@@ -1,4 +1,4 @@
-# test_wasd_win.py — Windows-only. Robust CARLA connect + WASD/Arrow drive, sync tick, hard-locked chase cam.
+# test_tesla_driving.py — Windows-only. Robust CARLA connect + WASD/Arrow drive, sync tick, hard-locked chase cam.
 # Notes:
 #  - No pygame; uses Win32 GetAsyncKeyState.
 #  - Works in synchronous mode at 60 FPS fixed delta.
@@ -280,3 +280,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
