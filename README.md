@@ -51,6 +51,14 @@ This script also supports the **Arrow keys** as an alternative.
 - Matching `carla` wheel/egg (install from `PythonAPI/carla/dist` if needed)
 
 ---
+## Our Setup for CARLA on Windows
+- Operating System: Windows 11  
+- CPU: 12th Gen Intel Core i5-12500H (2.50 GHz)  
+- RAM: 16 GB  
+- GPU: NVIDIA GeForce RTX series  
+- Implementation Platform: Visual Studio Code (VSCode)
+
+---
 
 ## Installation
 
